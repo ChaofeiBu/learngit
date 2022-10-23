@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 The test of Github learngit.
 Creating a new branch is quick and faster_test.
+The test of no Fast forword.
